@@ -1,0 +1,36 @@
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          {{ if .Site.Data.social }}
+          <ul class="social">
+              {{ range .Site.Data.social }}
+                  <li><a href="{{ .link }}" target="blank"><img width="20" height="20" src="{{ .image | relURL }}" title="{{ .name }}" alt="{{ .name }}" /></a></li>
+              {{ end }}
+          </ul>
+          {{ end }}
+          <ul class="footer-menu">
+            <li>Registered in England</a></li>
+            <li>Company number:  14919004</a></li>
+            <li>Carbon reduction plan</a></li>
+            <li>Modern slavery policy</a></li>
+            <li>Privacy policy</a></li>
+            <li>Social value</a></li>
+          </ul>
+          <ul class="footer-menu">
+            <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+            <li>Our Team</a></li>
+            <li>Our Services</a></li>
+            <li>Articles</a></li>
+            <li><a href="{{ .Site.BaseURL }}contact">Contact us</a></li>
+          </ul>
+          <div style="flex-direction: row;">
+            <a><img src="Cyber.png" alt="cyber certified"  style="width: 160px;"></a>
+            <a><img src="CCS_BLK.png" alt="crown commercial" style="width: 150px;"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
