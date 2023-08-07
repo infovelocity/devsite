@@ -2,6 +2,7 @@ baseURL = "https://infovelocity.io/"
 languageCode = "en-us"
 title = "InfoVelocity - Empowering Businesses"
 theme = "hugo-hero-theme"
+publishDir = "docs"
 
 [module]
   [module.hugoVersion]
