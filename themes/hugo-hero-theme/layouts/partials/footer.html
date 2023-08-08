@@ -11,23 +11,24 @@
           </ul>
           {{ end }}
           <ul class="footer-menu">
-            <li>Registered in England</a></li>
-            <li>Company number:  14919004</a></li>
-            <li>Carbon reduction plan</a></li>
-            <li>Modern slavery policy</a></li>
-            <li>Privacy policy</a></li>
-            <li>Social value</a></li>
+            <li>Registered in England</li>
+            <li>Company number: 14919004</li>
+            <li><a href="/policy/carbon-reduction/">Carbon reduction plan</a></li>
+            <li><a href="/policy/slavery-policy/">Modern slavery policy</a></li>
+            <li><a href="/policy/privacy-policy/">Privacy policy</a></li>
           </ul>
-          <ul class="footer-menu">
+          <ul class="footer footer-custom">
             <li><a href="{{ .Site.BaseURL }}">Home</a></li>
-            <li>Our Team</a></li>
-            <li>Our Services</a></li>
-            <li>Articles</a></li>
+            <li><a href="/about">About us</a></li>
+            <li><a href="/services">Our Services</a></li>
+            <li><a href="/blog">Articles</a></li>
             <li><a href="{{ .Site.BaseURL }}contact">Contact us</a></li>
           </ul>
           <div style="flex-direction: row;">
-            <a><img src="Cyber.png" alt="cyber certified"  style="width: 160px;"></a>
-            <a><img src="CCS_BLK.png" alt="crown commercial" style="width: 150px;"></a>
+            {{ $cyber := resources.Get "Cyber.png" }}
+            {{ $ccsblk := resources.Get "CCS_BLK.png" }}
+            <a><img src="{{ $cyber.RelPermalink }}" alt="cyber certified"  style="width: 160px;"></a>
+            <a><img src="{{ $ccsblk.RelPermalink }}" alt="crown commercial" style="width: 150px;"></a>
           </div>
         </div>
       </div>

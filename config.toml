@@ -4,6 +4,12 @@ title = "InfoVelocity - Empowering Businesses"
 theme = "hugo-hero-theme"
 publishDir = "docs"
 
+extensions = [
+  "laxHtmlBlocks", # laxer block handling... let's see what this does?
+  "hardLineBreak", # newlines result in line breaks
+]
+
+
 [module]
   [module.hugoVersion]
     extended = true
@@ -32,31 +38,40 @@ publishDir = "docs"
     meta_twitter_site = "@infovelocityio"
     meta_twitter_creator = "@infovelocityio"
 
-[[menu.main]]
-	name = "Services"
-	url = "/services/"
-    weight = 1
 
 [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
-    weight = 3
+  name = "Home"
+  url = "/"
+  weight = 1
 
 [[menu.main]]
-    name = "About Us"
-    url = "/about/"
-    weight = 2
+  name = "Services"
+  url = "/services/"
+  weight = 2
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 4
+
+[[menu.main]]
+  name = "About Us"
+  url = "/about/"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
+
 
 #[[menu.main]]
 #    name = "History"
 #    url = "/history/"
 #    weight = 3
 
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
-
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+
+

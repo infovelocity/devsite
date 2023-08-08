@@ -1,5 +1,5 @@
 ---
-title: 'Data Visualization and Reporting'
+title: 'Data Visualization'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/data-insights-5.png'
 draft: false

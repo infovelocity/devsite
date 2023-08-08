@@ -34,6 +34,18 @@
       margin-top: 0;
     }
   }
+  .footer-custom {
+      margin-top: 16px;
+      display: flex;
+      //justify-content: flex-end;
+      flex-direction: column;
+      align-items: right;
+      @include media-breakpoint-up(sm) {
+        margin-top: 0;
+        padding-left: 12%;
+      }
+
+  }
   ul {
     list-style: none;
     margin: 0;
@@ -71,13 +83,13 @@
       list-style: none;
       margin: 0;
       padding: 0;
-      align-items: center;
+      //align-items: center;
       justify-content: flex-end;
       li {
         list-style: none;
         a {
           display: inline-block;
-          padding: 10px 8px 10px 8px;
+          padding: 4px 4px 4px 2px;
           font-weight: 300;
         }
       }
