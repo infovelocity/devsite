@@ -7,9 +7,9 @@ align: right
 heroHeading: 'Modern Slavery Policy'
 heroBackground: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
 ---
-# Overview  
+# Overview
 
-Slavery and human trafficking remain a hidden blight in our global society. Infovelocity has a responsibility to be alert to the risks, however small, in its business and Its wider supply chain. Infovelocity’s employees are aware of the risks and are expected to report their concerns, and management is expected to act on them.  
+Slavery and human trafficking remain a hidden blight in our global society. Infovelocity has a responsibility to be alert to the risks, however small, in its business and Its wider supply chain. Infovelocity’s employees are aware of the risks and are expected to report their concerns, and management is expected to act on them.
 
 ## Organisation’s structure
 
@@ -17,12 +17,10 @@ Infovelocity Limited, trading as Infovelocity, is a Data Engineering & DevOps co
 
 The registered office is:
 
-73 Oyster Lane,  
-Byfleet,  
-Surrey,  
-KT14 7JF  
-
-
+73 Oyster Lane,
+Byfleet,
+Surrey,
+KT14 7JF
 
 ## Our business
 

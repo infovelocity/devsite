@@ -75,12 +75,10 @@ This Carbon Reduction Policy will be reviewed periodically to ensure its relevan
 
 If you have any questions, suggestions, or concerns about our Carbon Reduction Policy or our environmental practices, please contact us at:
 
-Info velocity ltd  
-73 Oyster Lane  
-Byfleet  
-KT14 7JF  
-Surrey  
-
-Email: contactus@infovelocity.co.uk
+Info velocity ltd
+73 Oyster Lane
+Byfleet
+KT14 7JF
+Surrey
 
 By implementing this Carbon Reduction Policy, we aim to contribute to a more sustainable and resilient future while fulfilling our responsibility as a socially and environmentally conscious business. Together, let us take significant steps toward a greener and cleaner world.

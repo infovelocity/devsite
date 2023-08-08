@@ -17,7 +17,7 @@ heroBackground: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
 Welcome to Info velocity Ltd ("Infovelocity","we", "us", or "our"). We are committed to protecting the privacy and security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect your personal data when you visit our website or use our services. By accessing our website or using our services, you consent to the practices described in this Privacy Policy.
 
 ## Information We Collect
-Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).  
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
 
 We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:
 #### Personal Information
@@ -76,12 +76,10 @@ We may update this Privacy Policy from time to time to reflect changes to our pr
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your personal information, please contact us at:
 
-Info velocity ltd  
-73 Oyster Lane  
-Byfleet  
-KT14 7JF  
-Surrey  
-
-Email: legal@infovelocity.co.uk
+Info velocity ltd
+73 Oyster Lane
+Byfleet
+Surrey
+KT14 7JF
 
 By using our website or services, you acknowledge that you have read and understood this Privacy Policy and consent to the collection, use, and disclosure of your personal information as described herein.
