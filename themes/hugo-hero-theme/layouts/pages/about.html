@@ -14,7 +14,7 @@
     <div class="row">
       <div style="text-align: left;">
       <img src="{{ .Params.image}}" alt="{{ .Params.image}}" class="{{ .Params.class}}"></div>
-      <div class="col-5 col-md-10 {{ if eq .Params.align "right" }}offset-md-0{{ end }}">
+      <div class="col-20 col-md-20 {{ if eq .Params.align "right" }}offset-md-0{{ end }}">
         <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
         <img src="../social/linkedin.png" alt="linkedin" style="width: 30px"> <a href="https://{{ .Params.linkedin}}">  {{ .Params.linkedin}}</a>
         <br><br>
