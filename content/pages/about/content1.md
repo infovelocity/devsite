@@ -9,6 +9,8 @@ class: avatar2
 linkedin: linkedin.com/in/mohanb
 ---
 
-Co-Founder /  Senior Cloud & Devops Consultant
+Senior Cloud & Devops Consultant
 
-Hands on Infrastructure / Cloud Architect / Senior DevOps Consultant with 16+ years of expertise. Experienced in working with diverse set of technologies, passionate about open-source advancements. Self-motivated, quick learner, precise problem solver with excellent communication skills dedicated to company success.
+Meet our accomplished Cloud Architect and Senior DevOps Consultant, equipped with over 16 years of hands-on experience. Their comprehensive skill set is further reinforced by an array of AWS certifications, including AWS Certified Solutions Architect - Professional, AWS Certified Security - Specialist, and AWS Certified DevOps - Professional. Notably, they also hold esteemed Kubernetes certifications, including Certified Kubernetes Administrator and Certified Kubernetes Security Specialist.
+
+Commanding knowledge and experience spanning diverse technologies, Possessing exceptional skills, self-motivation, adeptness at rapid learning, analytical acumen, and an innate precision that consistently translates into remarkable productivity. Thriving within dynamic, multifaceted environments that demand unwavering excellence, setting and maintaining high standards as an integral part of their work ethic. They stand as a cornerstone of our team, poised to elevate our collective capabilities and steer our company towards even greater achievements.

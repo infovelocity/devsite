@@ -411,8 +411,14 @@ textarea {
   font-family: inherit;
   @include font-size(inherit);
   line-height: inherit;
+  //width: inherit
+}
+
+input,
+textarea{
   width: inherit
 }
+
 
 // Remove the inheritance of text transform in Firefox
 button,
