@@ -4,13 +4,15 @@ date: 2018-12-06T09:29:16+10:00
 weight: 1
 #background: 'https://source.unsplash.com/hpk2S4PcsUg/1600x500'
 align: right
-image: mohan.jpg
+image: mohanb1.jpg
 class: avatar2
 linkedin: linkedin.com/in/mohanb
 ---
 
 Senior Cloud & Devops Consultant
 
-Meet our accomplished Cloud Architect and Senior DevOps Consultant, equipped with over 16 years of hands-on experience. Their comprehensive skill set is further reinforced by an array of AWS certifications, including AWS Certified Solutions Architect - Professional, AWS Certified Security - Specialist, and AWS Certified DevOps - Professional. Notably, they also hold esteemed Kubernetes certifications, including Certified Kubernetes Administrator and Certified Kubernetes Security Specialist.
+Mohan embarked on his career as a Linux admin and has now amassed over 16+ years of experience across a wide spectrum of technologies. For the past 8 years, he has served as an independent consultant, contributing his expertise to renowned public and private sector entities such as Worldpay, JP Morgan, Ministry of Justice and UK Home Office. He has played an instrumental role in numerous successful transformation projects.
 
-Commanding knowledge and experience spanning diverse technologies, Possessing exceptional skills, self-motivation, adeptness at rapid learning, analytical acumen, and an innate precision that consistently translates into remarkable productivity. Thriving within dynamic, multifaceted environments that demand unwavering excellence, setting and maintaining high standards as an integral part of their work ethic. They stand as a cornerstone of our team, poised to elevate our collective capabilities and steer our company towards even greater achievements.
+Mohan's technical prowess is fortified by a range of AWS certifications, encompassing AWS Certified Solutions Architect - Professional, AWS Certified Security - Specialist, and AWS Certified DevOps - Professional. He also holds multiple Kubernetes certifications, comprising Certified Kubernetes Administrator and Certified Kubernetes Security Specialist.
+
+Mohan's passion for intricate problem-solving and remarkable attention to detail sets him apart. His comprehensive knowledge spans diverse technologies, complemented by an outstanding skill to understand business needs, rapid learning abilities, and an unwavering knack for precision and clarity.  Thriving in dynamic, multifaceted environments that demand unwavering excellence, he upholds high standards as an integral part of his work ethic. A cornerstone of our team, he is primed to elevate our collective capabilities, steering our company toward even greater accomplishments.
