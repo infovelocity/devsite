@@ -10,21 +10,25 @@
 {{ $subpages := sort $subpages ".Params.weight" }}
 {{ range $subpages }}
 <div class="strip bg-cover bg-position-top bg-overlay" style="background-image: url('{{ .Params.background | relURL }}');">
-  <div class="container pt-3 pb-3">
-    <div class="row">
-      <div style="text-align: left;">
-      <img src="{{ .Params.image}}" alt="{{ .Params.image}}" class="{{ .Params.class}}"></div>
-      <div class="col-20 col-md-20 {{ if eq .Params.align "right" }}offset-md-0{{ end }}">
-        <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
-        <img src="../social/linkedin.png" alt="linkedin" style="width: 30px"> <a href="https://{{ .Params.linkedin}}">  {{ .Params.linkedin}}</a>
+  <div class="container container-image container-sm pt-3 pb-3">
+      <div class="">
+      <img src="{{ .Params.image}}" alt="{{ .Params.image}}" class="{{ .Params.class}}">
+      <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
+      <br>
+      <h5 class="text-primary text-capitalize">{{ .Params.position }}</h5>
+      <a href="https://linkedin.com/in/{{ .Params.linkedin}}"><img src="../social/linkedin.png" alt="linkedin" style="width: 30px"></a>
+      <br>
+      </div>
+      <div class="col-20 col-md-20 {{ if eq .Params.align "right" }}offset-md-1{{ end }}">
         <br><br>
         {{ .Content }}
         {{ if .Params.button }}
           <a class="button" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
         {{ end }}
       </div>
-    </div>
+
   </div>
+  <hr>
 </div>
 {{ end }}
 {{ .Content }}

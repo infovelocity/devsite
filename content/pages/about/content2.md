@@ -6,10 +6,9 @@ date: 2018-12-06T09:29:16+10:00
 align: right
 image: mianb1.jpg
 class: avatar1
-linkedin: linkedin.com/in/mian-mahmood
+linkedin: mian-mahmood
+position: Principal Application Architect
 ---
-
-Principal Application Architect & Senior Java Developer
 
 Commencing his career as a Java developer, Mian swiftly ascended to diverse senior roles such as Principal Application Architect and Technical Design Authority. With an impressive 30+ years of hands-on experience spanning a broad range of technologies, he has cultivated a remarkable skill set.
 
