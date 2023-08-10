@@ -2,7 +2,7 @@
 title: 'Modern Hospital'
 date: 2019-11-18T12:33:46+10:00
 author: Mian
-draft: false
+draft: true
 weight: 2
 heroHeading: 'Modern Hospital Design'
 heroSubHeading: 'Designing a new modern hospital wing'
