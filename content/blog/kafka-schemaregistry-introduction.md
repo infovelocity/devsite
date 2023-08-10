@@ -14,8 +14,6 @@ thumbnail: 'blog/kafka-white.png'
 #'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings',#'https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
 
-# Introduction to Schema Registry with Kafka
-
 Apache Kafka is a popular platform for building real-time data pipelines and streaming applications. One critical aspect of managing data in Kafka is handling the evolving structure of the data produced and consumed by various applications. This is where the Kafka Schema Registry comes into play.
 
 ## What is Schema Registry?

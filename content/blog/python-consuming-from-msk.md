@@ -4,7 +4,7 @@ date: 2023-08-05T12:33:46+10:00
 author: Mohan
 draft: false
 weight: 2
-heroHeading: 'Python - Consuming from MSK with TLS'
+heroHeading: 'Consuming Kafka Messages with Python using TLS'
 heroSubHeading: ''
 heroBackground: 'https://source.unsplash.com/95YRwf6CNw8/1600x400'
 thumbnail: 'https://source.unsplash.com/95YRwf6CNw8/600x335'
@@ -12,7 +12,6 @@ thumbnail: 'https://source.unsplash.com/95YRwf6CNw8/600x335'
 #'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings',#'https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
 
-# Consuming Kafka Messages with Python using TLS
 
 Apache Kafka is a popular choice for building scalable and robust real-time data pipelines. When dealing with sensitive data or communication across untrusted networks, it's crucial to secure your Kafka communication using TLS. In this article, we'll explore how to consume Kafka messages with Python while utilizing TLS for secure data transfer.
 

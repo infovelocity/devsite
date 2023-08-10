@@ -4,15 +4,13 @@ date: 2023-08-01T09:30:00+10:00
 author: Mian
 draft: false
 weight: 2
-heroHeading: 'Kafka - Introduction'
+heroHeading: 'Introduction to Apache Kafka'
 heroSubHeading: ''
 heroBackground: 'blog/kafka-banner.png'
 thumbnail: 'blog/kafka-black.png'
 #images: ['https://source.unsplash.com/random/400x600/?nature',
 #'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings',#'https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
-
-# Introduction to Apache Kafka
 
 Apache Kafka is a powerful distributed event streaming platform that has gained immense popularity in recent years. It was originally developed by engineers at LinkedIn to address the challenges of handling real-time data feeds, and it has since evolved into an essential component for building scalable and resilient data pipelines.
 

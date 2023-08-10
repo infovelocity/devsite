@@ -1,18 +1,16 @@
 ---
-title: 'Kafka - produce message via cli'
+title: 'Kafka - produce messages via cli'
 date: 2023-08-02T09:30:00+10:00
 author: Mian
 draft: false
 weight: 2
-heroHeading: 'Kafka - produce message via cli'
+heroHeading: 'Producing Messages to Kafka via CLI'
 heroSubHeading: ''
 heroBackground: 'blog/kafka-white.png'
 thumbnail: 'blog/kafka-black.png'
 #images: ['https://source.unsplash.com/random/400x600/?nature',
 #'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings',#'https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
-
-# Producing Messages to Kafka via CLI
 
 Apache Kafka is a versatile platform for handling real-time data streams. One essential task is producing messages to Kafka topics. In this article, we'll explore how to produce Kafka messages using the command-line interface (CLI).
 

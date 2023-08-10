@@ -1,10 +1,10 @@
 ---
-title: 'Kafka - consume message via cli'
+title: 'Kafka - Consume messages via cli'
 date: 2023-08-03T12:33:46+10:00
 author: Mian
 draft: false
 weight: 2
-heroHeading: 'Kafka - produce message via cli'
+heroHeading: 'Consuming Kafka Messages via CLI'
 heroSubHeading: ''
 heroBackground: 'blog/kafka-banner.png'
 #heroBackground: 'https://source.unsplash.com/95YRwf6CNw8/1600x400'
@@ -12,8 +12,6 @@ thumbnail: 'blog/kafka-white.png'
 #images: ['https://source.unsplash.com/random/400x600/?nature',
 #'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings',#'https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
-
-# Consuming Kafka Messages via CLI
 
 Apache Kafka is a powerful platform for handling real-time data streams. One of the most common tasks when working with Kafka is consuming messages from topics. In this article, we'll explore how to consume Kafka messages using the command-line interface (CLI).
 

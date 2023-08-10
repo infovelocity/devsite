@@ -12,8 +12,6 @@ thumbnail: 'https://source.unsplash.com/ieic5Tq8YMk/600x335'
 #'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings',#'https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
 
-# Listing the Number of Messages in Kafka for Each Partition using Python
-
 Apache Kafka is a powerful distributed event streaming platform that often involves monitoring and managing the data in various partitions of a topic. In this article, we'll explore how to use Python to determine the number of messages in each partition of a Kafka topic.
 
 ## Prerequisites

@@ -4,14 +4,13 @@ date: 2023-08-09T09:30:00+10:00
 author: Mian
 draft: false
 weight: 2
-heroHeading: 'Kafka - Introduction to Kafka consumer groups'
+heroHeading: 'Kafka - Consumer Groups: Types of Membership'
 heroSubHeading: ''
 heroBackground: 'blog/kafka-banner.png'
 thumbnail: 'blog/kafka-black.png'
 #images: ['https://source.unsplash.com/random/400x600/?nature',
 #'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings',#'https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
-# Kafka Consumer Groups: Types of Membership
 
 Apache Kafka is a distributed event streaming platform known for its scalability and ability to handle large volumes of data. Kafka consumer groups are a crucial feature that enables parallel processing of messages from topics. In this article, we'll explore the concepts behind Kafka consumer groups and discuss the various types of membership.
 
