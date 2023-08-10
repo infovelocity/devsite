@@ -4,12 +4,12 @@ date: 2023-08-04T12:33:46+10:00
 author: Mian
 draft: false
 weight: 2
-heroHeading: 'Confluent - Schema Registry Introduction'
-heroSubHeading: 'Designing a new modern hospital wing'
+heroHeading: 'Kafka - Schema Registry Introduction'
+heroSubHeading: 'Introduction to Kafka Schema Registry'
 #heroBackground: 'https://source.unsplash.com/95YRwf6CNw8/1600x400'
 #thumbnail: 'https://source.unsplash.com/95YRwf6CNw8/600x400'
 heroBackground: 'blog/kafka-white.png'
-thumbnail: 'blog/kafka-schemareg.png'
+thumbnail: 'blog/kafka-black.png'
 #images: ['https://source.unsplash.com/random/400x600/?nature',
 #'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings',#'https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
